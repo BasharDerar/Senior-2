@@ -1,0 +1,17 @@
+torch
+torchvision
+transformers
+datasets
+evaluate
+rouge-score
+sacrebleu
+bert-score
+pandas
+numpy
+scikit-learn
+matplotlib
+Pillow
+tqdm
+open-clip-torch
+sentencepiece
+accelerate
